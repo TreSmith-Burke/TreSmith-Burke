@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Tre 
 
-<!--
-**TreSmith-Burke/TreSmith-Burke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am currently a Jr. Systems Administrator 
 
-Here are some ideas to get you started:
+Certifications: [A+](https://www.credly.com/badges/eba9aa9c-9ab5-42e4-a9a2-9a0cdb7c2f00/public_url) | [Network+](https://www.credly.com/badges/38d37d1a-6f7d-4c8c-b34e-f95db113b70b/public_url) | [Security+](https://www.credly.com/badges/91c65d81-cd0e-4277-bb03-6f74573f2f17/public_url)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building hands-on labs to demonstrate Microsoft identity and Azure administration skills.
+
+## Featured IAM Projects
+
+| Project | Focus | Status |
+|---|---|---|
+| Microsoft Entra ID User & Group Management | Identity Administration Fundamentals | Planned |
+| Azure RBAC & Entra Role Assignment | Least-Privilege Access Control | Planned |
+| Conditional Access | MFA & Risk-Based Access | Planned |
+| Identity Governance (Access Reviews + Entitlement Mgmt + UAR Reporting) | Recertification, Lifecycle Governance & Audit Evidence | Planned |
+| Privileged Identity Management (PIM) | Just-In-Time Admin Access | Planned |
+
+
+<h2> Let's Connect! </h2>
+
+[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/tre-smith-burke/)
+[![My GitHub](https://skillicons.dev/icons?i=github)](https://github.com/TreSmith-Burke)
