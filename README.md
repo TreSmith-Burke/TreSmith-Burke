@@ -6,16 +6,6 @@ Certifications: [A+](https://www.credly.com/badges/eba9aa9c-9ab5-42e4-a9a2-9a0cd
 
 I'm currently building hands-on labs to demonstrate Microsoft identity and Azure administration skills.
 
-## Featured IAM Projects
-
-| Project | Focus | Status |
-|---|---|---|
-| Microsoft Entra ID User & Group Management | Identity Administration Fundamentals | Planned |
-| Azure RBAC & Entra Role Assignment | Least-Privilege Access Control | Planned |
-| Conditional Access | MFA & Risk-Based Access | Planned |
-| Identity Governance (Access Reviews + Entitlement Mgmt + UAR Reporting) | Recertification, Lifecycle Governance & Audit Evidence | Planned |
-| Privileged Identity Management (PIM) | Just-In-Time Admin Access | Planned |
-
 
 <h2> Let's Connect! </h2>
 
