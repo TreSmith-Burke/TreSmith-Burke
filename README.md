@@ -1,10 +1,18 @@
-# Hi, I'm Tre 
+# Hi, I'm Tre 👋
 
-### I am currently a Jr. Systems Administrator | Aspiring IAM Professional
+### Jr. Systems Administrator | Aspiring IAM Professional
 
-Building toward Identity & Access Management through skills tailored in PowerShell, Active Directory, Entra ID, and Automation.
+Building toward a career in Identity & Access Management, with hands-on experience across Active Directory, Entra ID, PowerShell, and automation.
 
-<h2> Let's Connect! </h2>
+### My main focus involves:
+
+- Identity & Access Management: Ensuring users and devices have the appropriate access to resources.
+- Active Directory: Manage users, groups, authentication, and permissions.
+- Microsoft Entra ID: Administering cloud-based identities, SSO, and Conditional Access.
+- Access Governance: Conducting access reviews and auditing entitlements for audit readiness.
+- PowerShell: Using scripting to manage identities, access, permissions and user lifecycle. 
+- Automation: Automating repetitive identity and access management tasks. 
+
+<h2> Let's Connect! 🤝 </h2>
 
 [![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/tre-smith-burke/)
-[![My GitHub](https://skillicons.dev/icons?i=github)](https://github.com/TreSmith-Burke)
