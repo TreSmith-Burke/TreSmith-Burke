@@ -2,7 +2,7 @@
 
 ### Jr. Systems Administrator | Aspiring IAM Professional
 
-Building toward a career in Identity & Access Management, with hands-on experience across Active Directory, Entra ID, PowerShell, and automation.
+Building toward a career in Identity & Access Management, with hands-on experience across Active Directory, Entra ID, PowerShell, and Automation.
 
 ### My main focus involves:
 
