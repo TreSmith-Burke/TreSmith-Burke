@@ -1,17 +1,17 @@
 # Hi, I'm Tre 👋
 
-### Jr. Systems Administrator | Aspiring IAM Professional
+### Systems Administrator building toward Identity & Access Management
 
-Building toward a career in Identity & Access Management, with hands-on experience across identity platforms, lifecycle governance, and automation.
+Hands-on experience across identity platforms, lifecycle governance, and automation — with a focus on doing IAM the right way: least privilege, clean audit trails, and processes that scale.
 
 ### My main focus involves:
 
 - Active Directory: Manage users, groups, authentication, and permissions.
-- Microsoft Entra ID: Administering cloud-based identities, SSO, and Conditional Access.
+- Microsoft Entra ID: Cloud identities, SSO, and Conditional Access.
 - Identity Lifecycle Management (Joiner-Mover-Leaver): Onboarding, role changes, offboarding.
-- Access Governance: Conducting access reviews and auditing entitlements for audit readiness.
-- Least Privilege & RBAC: Ensuring users have appropriate access based on their role/position. 
-- PowerShell & Automation: Using scripting to manage identities, access, permissions and user lifecycle. 
+- Access Governance: Access reviews and entitlement audits.
+- Least Privilege & RBAC: Role-based access aligned to job functions.
+- PowerShell & Automation: Scripting identity, access, and lifecycle workflows. 
 
 <h2> Let's Connect! 🤝 </h2>
 
